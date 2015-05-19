@@ -1,0 +1,10 @@
+C:\Documents and Settings\DWG\My Documents\Visual Studio 2005\Projects\RandomMoviePicker\RandomMoviePicker\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\DWG\My Documents\Visual Studio 2005\Projects\RandomMoviePicker\RandomMoviePicker\obj\Release\CompactMovieManager.Properties.Resources.resources
+C:\Documents and Settings\DWG\My Documents\Visual Studio 2005\Projects\RandomMoviePicker\RandomMoviePicker\obj\Release\CompactMovieManager.csproj.GenerateResource.Cache
+C:\Documents and Settings\DWG\My Documents\Visual Studio 2005\Projects\RandomMoviePicker\RandomMoviePicker\obj\Release\CompactMovieManager.FrmMain.resources
+C:\Documents and Settings\DWG\My Documents\Visual Studio 2005\Projects\RandomMoviePicker\RandomMoviePicker\obj\Release\CompactMovieManager.FrmAbout.resources
+C:\Documents and Settings\DWG\My Documents\Visual Studio 2005\Projects\RandomMoviePicker\RandomMoviePicker\obj\Release\CompactMovieManager.frmCompactMovieManager.resources
+C:\Documents and Settings\DWG\My Documents\Visual Studio 2005\Projects\RandomMoviePicker\RandomMoviePicker\bin\Release\CompactMovieManager.exe
+C:\Documents and Settings\DWG\My Documents\Visual Studio 2005\Projects\RandomMoviePicker\RandomMoviePicker\bin\Release\CompactMovieManager.pdb
+C:\Documents and Settings\DWG\My Documents\Visual Studio 2005\Projects\RandomMoviePicker\RandomMoviePicker\obj\Release\CompactMovieManager.exe
+C:\Documents and Settings\DWG\My Documents\Visual Studio 2005\Projects\RandomMoviePicker\RandomMoviePicker\obj\Release\CompactMovieManager.pdb
